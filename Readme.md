@@ -19,4 +19,4 @@ Identificar, seleccionar, construir e implementar algoritmos de Machine Learning
 
  - [Sesión 7: Desarrollo de modelos predictivos y redes neuronales artificiales](./Sesion-07)
 
- - [Sesión 8: Desarrollo de modelos predictivos y redes neuronales artificiales](./Sesion-08)
+ - [Sesión 8: Clasificación y optimización de modelos](./Sesion-08)
