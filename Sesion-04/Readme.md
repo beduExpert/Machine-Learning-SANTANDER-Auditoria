@@ -1,4 +1,4 @@
-# Sesión 03: Algoritmos no supervisados  
+# Sesión 04: Algoritmos no supervisados  
 
 #### Objetivo: Construir algoritmos que permitan hacer separación en conjuntos sin necesidad de suministrar datos de categorización.  
 
