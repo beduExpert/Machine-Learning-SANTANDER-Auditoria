@@ -1,4 +1,4 @@
-# Sesión 05: Árboles de decisión  
+# Sesión 06: Árboles de decisión  
 
 
 #### Objetivo: Construir algoritmos que permitan separar datos por medio de clasificadores de árboles de decisión y random forests.  
