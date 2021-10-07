@@ -1,4 +1,4 @@
-# Sesión 07: Arena de clasificadores
+# Sesión 08: Clasificación y optimización de modelos
 
 #### Objetivo: Construir múltiples clasificadores para diferentes problemas, hacerlos competir y seleccionar el mejor dependiendo del problema a enfrentarse.  
 
