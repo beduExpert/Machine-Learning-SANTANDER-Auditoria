@@ -1,4 +1,4 @@
-# Sesión 06: Redes Neuronales Artificiales
+# Sesión 07: Desarrollo de modelos predictivos y redes neuronales artificiales
 
 #### Objetivo: Construir una red neuronal artificial y entender los procedimientos del algoritmo de descenso en gradiente para predicción y clasificación supervisada.  
 
