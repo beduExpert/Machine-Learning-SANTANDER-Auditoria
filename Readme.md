@@ -1,4 +1,4 @@
-## Módulo: Machine Learning 2020
+## Módulo: Machine Learning Santnader Auditoría
 
 ### Objetivo: 
 Identificar, seleccionar, construir e implementar algoritmos de Machine Learning con Python, con el objetivo de identificar si un problema amerita utilizar Machine Learning, seleccionar el mejor algoritmo, construirlo, implementarlo y probar su eficacia.  
