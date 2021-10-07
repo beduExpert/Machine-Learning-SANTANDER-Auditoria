@@ -1,4 +1,4 @@
-# Sesión 02: Separación, validación y evaluación para algoritmos de ML  
+# Sesión 03: Separación, validación y evaluación para algoritmos de ML  
 
 #### Objetivo: Construir algoritmos de separación de conjuntos de datos en entrenamiento / validación / prueba y algoritmos de evaluación de clasificadores de ML (clasificación binaria y multiclase).       
 
