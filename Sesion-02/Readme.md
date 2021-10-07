@@ -1,5 +1,5 @@
 
-## Sesión 04: Pandas y Análisis Exploratorio de Datos
+## Sesión 02: Pandas y Análisis Exploratorio de Datos
 
 ### 1. Objetivos
 
